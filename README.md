@@ -5,7 +5,7 @@ The CubeDAO Launcher is a custom launcher for Minecraft that offers an enhanced 
 How to install- Simply download the exe and run.
 How to use - Log in with microsoft account and click to join any of our listed servers.
 
-![Screenshot 2023-06-26 020623](https://github.com/CubeDAO-Dev/CubeDAO-Client-Launcher/assets/107625109/d5883115-7d6e-46ff-bb22-f1c0e9c2167f)
+![Screenshot 2023-06-26 020623](https://github.com/CubeDAO-Dev/CubeDAO-Client-Launcher/assets/107625109/22ab7963-bc45-4c18-a7fa-2be7884df301)
 
 Q&A
 
