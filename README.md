@@ -16,7 +16,7 @@ Features -
 - Clean modern easy to use UI
 - And much more
 
-Player Username and Balance will only show if you have previously connected to The Cube minecraft server before (play.cubedao.net) as this is used for authentication, if not placeholders (player) and (balance 0) will be used.
+Player Balance will only show if you have previously connected to The Cube minecraft server before (play.cubedao.net) as this is used for authentication, if not placeholders (player) and (balance 0) will be used.
 
 ![aGithubExample](https://github.com/CubeDAO-Dev/CubeDAO-Client-Launcher/assets/107625109/496bfd3e-3618-4fe2-85a3-2e57f23a4942)
 
